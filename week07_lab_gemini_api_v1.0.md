@@ -965,8 +965,7 @@ class ListingDraft {
 บันทึกผลลัพธ์ที่นี่
 ```
 <img width="461" height="987" alt="image" src="https://github.com/user-attachments/assets/0f83ddd0-766f-42b7-9e14-f7c2ac03a386" />
-<img width="464" height="987" alt="image" src="https://github.com/user-attachments/assets/3eeeead5-87e5-40af-a405-4492ac5b7391" />
-<img width="457" height="987" alt="image" src="https://github.com/user-attachments/assets/92434e28-544a-43f8-b2c0-e5de1788216d" />
+
 
 
 ---
@@ -989,6 +988,11 @@ class ListingDraft {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+ก
+<img width="461" height="991" alt="image" src="https://github.com/user-attachments/assets/0fef5327-7e31-4f78-80b8-aa62fa106b01" />
+ข
+<img width="462" height="993" alt="image" src="https://github.com/user-attachments/assets/f0deeb4b-5c34-4851-85e0-c620c0365549" />
+
 
 ---
 
@@ -1018,6 +1022,8 @@ class ListingDraft {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="464" height="981" alt="image" src="https://github.com/user-attachments/assets/c388a2e2-0e88-4600-a1c1-541a57dec98c" />
+
 ---
 
 
